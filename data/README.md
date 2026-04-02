@@ -1,8 +1,8 @@
 # Data
 
-This repository uses near-infrared (NIR) spectra and property measurement data for polyolefins.
+This repository contains code and analysis for predicting key physical properties of polyolefins from near-infrared (NIR) spectra using machine learning. The work supports property-based plastic sorting, enabling improved recycling and circular economy outcomes.
 
 ## Full Dataset
-The full dataset is available at the NIST repository:
+This dataset supports machine learning models that link NIR spectra to polymer properties. The full dataset is available at the NIST repository:
 
 https://datapub.nist.gov/od/id/mds2-3809
