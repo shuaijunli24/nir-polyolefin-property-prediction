@@ -6,3 +6,4 @@ This repository contains code and analysis for predicting key physical propertie
 This dataset supports machine learning models that link NIR spectra to polymer properties. The full dataset is available at the NIST repository:
 
 https://datapub.nist.gov/od/id/mds2-3809
+DOI: 10.18434/mds2-3809
