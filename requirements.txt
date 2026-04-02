@@ -1,0 +1,7 @@
+# Core dependencies for NIR polyolefin ML analysis
+numpy
+pandas
+matplotlib
+scikit-learn
+shap
+jupyter
