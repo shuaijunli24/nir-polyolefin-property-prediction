@@ -6,3 +6,8 @@
 
 # nir-polyolefin-property-prediction
 Machine learning prediction of polyolefin properties from NIR spectra for improved plastic sorting and recycling
+
+## License
+
+This project is based on software developed by the National Institute of Standards and Technology (NIST).  
+See the LICENSE file for details.
